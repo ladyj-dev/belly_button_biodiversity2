@@ -1,4 +1,4 @@
-## https://ladyj-dev.github.io/belly_button_biodiversity/
+## https://ladyj-dev.github.io/belly_button_biodiversity2/
 
 ![belly_buttons.png](belly_buttons.png)
 
